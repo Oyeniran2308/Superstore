@@ -97,7 +97,8 @@ customer experience.
 - Encourage express delivery adoption by offering competitive pricing. 
 - Optimize Standard Class to maintain affordability and efficiency.
    
-Conclusion 
+#### Conclusion 
+
 The Superstore performed well in 2014, but profitability remains a challenge. High sales in California and the 
 West region drive revenue, while South Dakota and Central underperform. September is the strongest sales 
 month, whereas February is the weakest. High-end tech products dominate sales, while standard shipping 
